@@ -2,7 +2,7 @@ don't mind me.
 
 just going through the rust book to learn how to oxidise an iron crab.
 
-
+```
     ▒▒          ▒▒                                ▒▒          ▒▒  
     ▒▒          ▒▒                                ▒▒          ▒▒  
   ▒▒▒▒▒▒      ▒▒▒▒▒▒                            ▒▒▒▒▒▒      ▒▒▒▒▒▒
@@ -25,3 +25,4 @@ just going through the rust book to learn how to oxidise an iron crab.
       ▒▒      ▒▒▒▒                                ▒▒▒▒      ▒▒    
       ░░        ▒▒                                ▒▒░░            
                 ▒▒                                ▒▒              
+```
